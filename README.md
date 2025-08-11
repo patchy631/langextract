@@ -4,9 +4,7 @@
   </a>
 </p>
 
-# LangExtract
-
-## Introduction
+## LangExtract
 
 LangExtract is a Python library that uses LLMs to extract structured information from unstructured text documents based on user-defined instructions. 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
