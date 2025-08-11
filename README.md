@@ -10,27 +10,11 @@
 [![GitHub stars](https://img.shields.io/github/stars/google/langextract.svg?style=social&label=Star)](https://github.com/google/langextract)
 ![Tests](https://github.com/google/langextract/actions/workflows/ci.yaml/badge.svg)
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Why LangExtract?](#why-langextract)
-- [Quick Start](#quick-start)
-- [Installation](#installation)
-- [API Key Setup for Cloud Models](#api-key-setup-for-cloud-models)
-- [Using OpenAI Models](#using-openai-models)
-- [Using Local LLMs with Ollama](#using-local-llms-with-ollama)
-- [More Examples](#more-examples)
-  - [*Romeo and Juliet* Full Text Extraction](#romeo-and-juliet-full-text-extraction)
-  - [Medication Extraction](#medication-extraction)
-  - [Radiology Report Structuring: RadExtract](#radiology-report-structuring-radextract)
-- [Contributing](#contributing)
-- [Testing](#testing)
-- [Disclaimer](#disclaimer)
-
 ## Introduction
 
 LangExtract is a Python library that uses LLMs to extract structured information from unstructured text documents based on user-defined instructions. It processes materials such as clinical notes or reports, identifying and organizing key details while ensuring the extracted data corresponds to the source text.
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 ## Why LangExtract?
 
 1.  **Precise Source Grounding:** Maps every extraction to its exact location in the source text, enabling visual highlighting for easy traceability and verification.
